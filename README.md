@@ -62,11 +62,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ali123321123&show_icons=true&theme=gotham" alt="ali123321123" />
  
-<a href='https://github.com/ali123321123/github-stats-transparent'>
-  
-![Most Used Languages](https://raw.githubusercontent.com/ali123321123/github-stats-transparent/output/generated/languages.svg)
 
-</a>
 
 
 
