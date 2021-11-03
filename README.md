@@ -1,6 +1,6 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://https://discord.gg/r8GAg8pN">
+<a href="https://discord.gg/r8GAg8pN">
   <img align="left" alt="Ali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alizedan/">
@@ -61,6 +61,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ali123321123&show_icons=true&theme=gotham" alt="ali123321123" />
+  ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 
 
