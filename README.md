@@ -1,5 +1,5 @@
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there,Full Stack, in ♡ with coding. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/r8GAg8pN">
   <img align="left" alt="Ali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -13,6 +13,7 @@
 ![]()
 
 <br />
+
 
 hi, i'm Ali Zedan, a software engineer and passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
