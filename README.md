@@ -27,7 +27,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, email : ali2016zedan@gmail.com :)
 - 💬 ask me about anything, i am happy to help;
-- <br>
 **languages and tools:**  
 
 <br>
