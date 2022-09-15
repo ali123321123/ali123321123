@@ -27,7 +27,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, email : ali2016zedan@gmail.com :)
-LinkedIn : https://www.linkedin.com/in/alizedan/
+LinkedIn : https://www.linkedin.com/in/alizedan/ <br/>
+Stackoverflow: https://stackoverflow.com/users/10536936/ali-zedan
 - 💬 ask me about anything, i am happy to help; <br>
 **languages and tools:**  
 
