@@ -57,8 +57,21 @@
 <h3 align="center">Languages and tools:</h3>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  <!-- Add other tools and languages here -->
+  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+  <a href="https://developer.android.com" target="_blank"><img align="left" alt="Android" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"></a>
+  <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+  <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+  <a href="https://firebase.google.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+  <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+  <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+  <a href="https://www.php.net" target="_blank"><img align="left" alt="PHP" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/php/php.svg"></a>
+  <a href="https://www.ruby-lang.org" target="_blank"><img align="left" alt="Ruby" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/ruby/ruby.svg"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg"></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html5/html5.svg"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css3/css3.svg"></a>
 </p>
 
 <hr />
