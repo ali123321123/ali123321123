@@ -69,6 +69,8 @@
   <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
   <a href="https://www.php.net" target="_blank"><img align="left" alt="PHP" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/php/php.svg"></a>
   <a href="https://www.ruby-lang.org" target="_blank"><img align="left" alt="Ruby" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/ruby/ruby.svg"></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"></a>
+  <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg"></a>
   <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html5/html5.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css3/css3.svg"></a>
