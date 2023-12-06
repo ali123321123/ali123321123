@@ -2,16 +2,23 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h4 align="center">Full Stack, in ♡ with coding.</h4>
 
+<p align="center">
+  <a href="https://discord.gg/r8GAg8pN">
+    <img alt="Ali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alizedan/">
+    <img alt="Ali's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/10536936/ali-zedan">
+    <img alt="Ali's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+  </a>
+</p>
 
-<a href="https://discord.gg/r8GAg8pN">
-  <img align="left" alt="Ali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alizedan/">
-  <img align="left" alt="Ali's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" />
-</a>
-<a href="https://stackoverflow.com/users/10536936/ali-zedan">
-  <img align="left" alt="Ali's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alizedan/">
+    <img alt="LinkedIn Profile Picture" src="https://www.facebook.com/photo/?fbid=649382133884441&set=a.649382127217775" style="border-radius: 50%;" />
+  </a>
+</p>
 https://www.hackerrank.com/ali2016zedan
 
 ![]()
