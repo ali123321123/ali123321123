@@ -22,13 +22,6 @@
     <i class="fab fa-stack-overflow" style="font-size: 22px;"></i>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alizedan/">
-    <img alt="LinkedIn Profile Picture" src="https://www.facebook.com/photo/?fbid=649382133884441&set=a.649382127217775" style="border-radius: 50%;" />
-  </a>
-</p>
-
 <br />
 
 <h2 align="center">Full Stack, in ♡ with coding.</h2>
