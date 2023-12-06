@@ -25,9 +25,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alizedan/">
-    <img alt="LinkedIn Profile Picture" src="https://www.facebook.com/photo/?fbid=649382133884441&set=a.649382127217775" style="border-radius: 50%;" />
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50" height="50" style="border-radius: 50%; background-color: #0077B5; padding: 5px;">
+      <path fill="#FFFFFF" d="M22,0H2C0.9,0,0,0.9,0,2v20c0,1.1,0.9,2,2,2H22c1.1,0,2-0.9,2-2V2C24,0.9,23.1,0,22,0z M7.6,20.8H4.7V9.9h2.9V20.8z M6.1,8.5L6.1,8.5c-1.2,0-2.2-1-2.2-2.2s1-2.2,2.2-2.2s2.2,1,2.2,2.2S7.3,8.5,6.1,8.5z M21.3,20.8h-2.8v-4.5 c0-1.3-0.5-2.1-1.4-2.1c-0.8,0-1.3,0.6-1.5,1.2c-0.1,0.4-0.1,1-0.1,1.6v4.9H9V9.9h2.8v1.5c0.4-0.7,1.3-1.6,2.8-1.6 c2,0,3.6,1.3,3.6,4.1V20.8z"/>
+    </svg>
   </a>
 </p>
+
 
 <br />
 
