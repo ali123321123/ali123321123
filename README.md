@@ -7,7 +7,7 @@
   <img align="left" alt="Ali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alizedan/">
-  <img align="left" alt="Ali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ali's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10536936/ali-zedan">
   <img align="left" alt="Ali's Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
